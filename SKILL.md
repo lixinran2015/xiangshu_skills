@@ -9,7 +9,7 @@ metadata:
       bins:
         - python3
     emoji: "🔢"
-    homepage: https://github.com/lxr/xiangshu-skill
+    homepage: https://github.com/lixinran2015/xiangshu_skills
 ---
 
 # 象数功效查询
